@@ -1,0 +1,4 @@
+#Thu Nov 15 18:46:51 CST 2018
+base.0=C\:\\Users\\Rafael\\Desktop\\GiveMeAHome\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
